@@ -2,7 +2,7 @@
 date_added: 2022-09-07
 model: QT-05M
 vendor: QOTO
-title: Solar Bateery Outdoor Water Timer Valve
+title: Solar Battery Outdoor Water Timer Valve
 category: misc
 zigbeemodel: ['TS0601', '_TZE200_sh1btabb']
 compatible: [z2m]
